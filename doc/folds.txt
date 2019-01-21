@@ -1,0 +1,23 @@
+*folds.txt*
+
+Author: 
+License: 
+
+CONTENTS					               	    *folds*
+
+============================================================================
+INTRODUCTION				                *folds-introduction*
+
+This plugins enables you to fold documents by section headings.
+
+    # h1 signaled by one hash symbol
+
+    ## h2 signaled by two hash symbols
+
+    ### h3 etc. (up to h6)
+
+
+============================================================================
+CONFIGURATION				      *folds-configuration*
+
+ vim:tw=78:ts=8:ft=help:norl:
